@@ -6,10 +6,9 @@ Data Science Projects
 * This is a Data Science project with Visualization and Analyisis on Airbnb data of New York City.
 
 * This dataset describes the listing activity and metrics in NYC for 2019 and it aims to provide some facts on Short-Term  Rental or Long-Term Rental use in New York City. And this project answers the below questions and it shows the insights of data.
-“What can we learn about different hosts and areas?”
-“What can we learn from predictions?” (ex: locations, prices, review etc)
-“Which hosts are the busiest and why?”
-“Is there any noticeable difference of traffic among different areas and what could be the reason for it?”
+  1. What can we learn about different hosts and areas?
+  2. What can we learn from predictions? (ex: locations, prices, reviews, etc.)
+  3. Which hosts are the busiest and why?
 
 ![](images/NYC_Airbnb%20Figure.png)
 

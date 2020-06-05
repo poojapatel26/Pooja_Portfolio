@@ -1,7 +1,7 @@
 # Pooja_Portfolio
 Data Science Projects
 
-## [Project 1:  New York City Airbnb Analysis](https://github.com/poojapatel26/New-York-City-Airbnb) 
+### [Project 1: New York City Airbnb Analysis](https://github.com/poojapatel26/New-York-City-Airbnb) 
 
 * This is a Data Science project with Visualization and Analyisis on Airbnb data of New York City.
 
@@ -13,7 +13,7 @@ Data Science Projects
 
 ![](images/NYC_Airbnb%20Figure.png)
 
-## [Project 2:  # Disaster-Response-Project](https://github.com/poojapatel26/Disaster-Response-Project) 
+### [Project 2: Disaster-Response-Project](https://github.com/poojapatel26/Disaster-Response-Project) 
 
 * This is a Machine learning pipeline to categorize emergency messages based on the needs communicated by Sender.
 * The initial dataset contains pre-labelled tweet and messages from real-life disaster.The aim of the project is to build a   Natural Language Processing tool that categorize messages.

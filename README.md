@@ -9,10 +9,11 @@ Data Science Projects
   1. What can we learn about different hosts and areas?
   2. What can we learn from predictions? (ex: locations, prices, reviews, etc.)
   3. Which hosts are the busiest and why?
-
+  
+### [Blog Post](https://medium.com/@poojapatel26/analysis-of-airbnb-data-nyc-2019-eecc84d9852a)    
+  
 ![](images/NYC_Airbnb%20Figure.png)
 
-### [See the Blog Post](https://medium.com/@poojapatel26/analysis-of-airbnb-data-nyc-2019-eecc84d9852a)    
 
 ### [Project 2: Disaster-Response-Project](https://github.com/poojapatel26/Disaster-Response-Project) 
 
@@ -25,6 +26,7 @@ Data Science Projects
   3. Web App to show model results in real time.
  
  ![](images/Disaster_response_project.png)
+ 
  
  ### [Project 3: Arvato Customer Segmentation Project](https://github.com/poojapatel26/Arvato-Bertelsmann-Customer-Segmentation-Project) 
  

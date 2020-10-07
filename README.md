@@ -33,6 +33,8 @@ Data Science Projects
  
 * This is a Data Capstone project, Supervised and Unsupervised Learning Algorithms are used to characterize the customer segment of the population and predict   customers for Arvato Financial Solutions.
 
+ ![](images/Arvato_Customer_Segmentation.jpeg)
+
 * The Project is divided in the following Sections:
   1. Customer Segmentation Report: In this section,the unsupervised learning technique is used to identify few characteristics for company's existing customers      compared to the general population of Germany.
   2. Supervised Learning Model: In this section, supervised Learning model is used to investigate mailout_train and mailout_test dataset to predict which            individuals are most likely to respond to a mailout campaign.
@@ -41,7 +43,6 @@ Kaggle Competition: After chosing the best model, the results submitted to [kagg
 
 ### [Blog Post](https://medium.com/@poojapatel26/customer-segmentation-report-for-arvato-financial-solutions-e8389955a67b)
  
- ![](images/Disaster_response_project.png)
  
  
  

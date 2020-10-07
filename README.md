@@ -1,5 +1,7 @@
 # Pooja_Portfolio
-Data Science Projects
+
+  Hi, I am Pooja, welcome to Data Science Protfolio
+
 
 ### [Project 1: New York City Airbnb Analysis](https://github.com/poojapatel26/New-York-City-Airbnb) 
 

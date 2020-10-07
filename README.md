@@ -28,6 +28,7 @@ Data Science Projects
  ![](images/Disaster_response_project.png)
  
  
+ 
  ### [Project 3: Arvato Customer Segmentation Project](https://github.com/poojapatel26/Arvato-Bertelsmann-Customer-Segmentation-Project) 
  
 * This is a Data Capstone project, Supervised and Unsupervised Learning Algorithms are used to characterize the customer segment of the population and predict   customers for Arvato Financial Solutions.

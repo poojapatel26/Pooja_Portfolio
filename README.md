@@ -12,7 +12,8 @@ Data Science Projects
 
 ![](images/NYC_Airbnb%20Figure.png)
 
-<iframe src="https://ghbtns.com/github-btn.html?user=mdo&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20" title="GitHub"></iframe>
+[watch this repo](https://github.com/user/repository/subscription)
+
 
 ### [Project 2: Disaster-Response-Project](https://github.com/poojapatel26/Disaster-Response-Project) 
 

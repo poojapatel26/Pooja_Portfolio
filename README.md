@@ -12,7 +12,21 @@ Data Science Projects
 
 ![](images/NYC_Airbnb%20Figure.png)
 
+<iframe src="https://ghbtns.com/github-btn.html?user=mdo&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20" title="GitHub"></iframe>
+
 ### [Project 2: Disaster-Response-Project](https://github.com/poojapatel26/Disaster-Response-Project) 
+
+* This is a Machine learning pipeline to categorize emergency messages based on the needs communicated by Sender.
+* The initial dataset contains pre-labelled tweet and messages from real-life disaster.The aim of the project is to build a   Natural Language Processing tool that categorize messages.
+
+* The Project is divided in the following Sections:
+  1. Data Processing, ETL Pipeline to extract data from source, clean data and save them in a proper databse structure
+  2. Machine Learning Pipeline to train a model able to classify text message in categories
+  3. Web App to show model results in real time.
+ 
+ ![](images/Disaster_response_project.png)
+ 
+ ### [Project 3: Disaster-Response-Project](https://github.com/poojapatel26/Disaster-Response-Project) 
 
 * This is a Machine learning pipeline to categorize emergency messages based on the needs communicated by Sender.
 * The initial dataset contains pre-labelled tweet and messages from real-life disaster.The aim of the project is to build a   Natural Language Processing tool that categorize messages.
